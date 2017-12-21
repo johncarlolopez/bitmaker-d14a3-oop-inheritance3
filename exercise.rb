@@ -12,4 +12,4 @@ sol.add(sun)
 sol.add(earth)
 sol.add(moon)
 
-# p sol.add(moon)
+puts sol.total_mass

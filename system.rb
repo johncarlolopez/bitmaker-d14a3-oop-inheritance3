@@ -20,7 +20,7 @@ class System
     @bodies.each {|body|
       total_mass_bodies = body.mass
     }
-    return total_mass_bodies
+    return "Total mass: #{total_mass_bodies}"
   end
 
 end
